@@ -1,0 +1,44 @@
+#text{
+    text-align: center;
+}
+#container{
+    padding: 0 40px 10px 20px;
+}
+#nav{
+    background-color: #6e6f74;
+}
+
+section{
+    background-color: #d1d9dc;
+     }
+img{
+    width: 40%;
+}
+#vv{
+    padding: 1px 9px 2px 100px;
+    gap: 100px;
+}
+#container{
+    padding: 30px;
+}
+#inputs{
+    width: 30%;
+    left: 70%;
+}
+.card{
+    height: 25rem;
+    border-radius: 30px;
+    
+}
+.image{
+    width: 70%;
+}
+.grid{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #d1d9dc;
+    font-size: 20px;
+    font-family: revert;
+}
